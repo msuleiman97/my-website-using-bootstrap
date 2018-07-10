@@ -1,0 +1,31 @@
+body{
+
+   top: 0px !important;
+   
+    
+}
+    .bg-navyblue{
+    background: #2facb1 !important;
+}
+a:hover { 
+    color:white !important;
+    text-transform: uppercase;
+}
+.col-navyblue{
+    
+    color:  #2facb1 !important;
+}
+.col-white{
+    color: white !important;
+}
+.bg-white{
+    background-color:#2facb1 !important;
+    
+}
+
+.to-uper{
+    text-transform: uppercase;
+    font-family:sans-serif;
+    font-style: normal;
+    font-size: 18px;
+}
