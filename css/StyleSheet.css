@@ -29,3 +29,16 @@ a:hover {
     font-style: normal;
     font-size: 18px;
 }
+
+/* above are the main css  for all pages */
+
+// Example
+// Apply styles starting from medium devices and up to extra large devices
+@media (max-width: 600px) { 
+    .jassor_slide{
+        
+        width: 200px;
+        height: 100px;
+    }
+
+}
