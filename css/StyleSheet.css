@@ -29,7 +29,13 @@ a:hover {
     font-style: normal;
     font-size: 18px;
 }
-
+h2{
+    color: #2facb1 ;
+}
+p{
+    text-align: justify;
+    text-indent: 40px;
+}
 /* above are the main css  for all pages */
 
 // Example
@@ -40,5 +46,14 @@ a:hover {
         width: 200px;
         height: 100px;
     }
+    
+/* start project life cycle style*/
+    
+    .project-life{
+        
+        
+    }
+    
+/* end roject life cycle style*/
 
 }
