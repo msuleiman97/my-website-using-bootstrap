@@ -1,11 +1,16 @@
 body{
 
    top: 0px !important;
-   
+   margin-bottom: 0; padding-bottom: 0; padding-top: 55px;
     
 }
     .bg-navyblue{
     background: #2facb1 !important;
+}
+a:hover.non-uper {
+    text-transform: none !important;
+    text-decoration: none;
+    color: white !important;
 }
 a:hover { 
     color:white !important;
@@ -33,7 +38,7 @@ a:hover {
 /*  ### start about page  ### */
 #gif-photo img{
     width: 100%;
-    height: 85%;
+    height: 510px;
     
 }
 
@@ -52,7 +57,7 @@ a:hover {
 }
 #footer{
     padding: 5px;
-    background-color: lightgray;
+    background-color: darkgray;
     
 }
 
