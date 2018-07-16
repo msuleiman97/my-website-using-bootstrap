@@ -62,3 +62,14 @@ a:hover {
 }
 
 /*  ###  end about page ### */
+
+/*  ###  start services page ### */
+#thumb-slider{
+    width: 100% !important;
+    margin: 15 auto !important;
+    align-content: center;
+    right: 0 ;
+    
+}
+
+/*  ###  end services page ### */
