@@ -38,7 +38,7 @@ a:hover {
 /*  ### start about page  ### */
 #gif-photo img{
     width: 100%;
-    height: 510px;
+    height: 550px;
     
 }
 
@@ -46,16 +46,18 @@ a:hover {
 
 #our-mission{
     padding: 7px 5px 0px 0px;
-    background-color: lightgray;
+    
+    background-color: #e9ecef;
 }
 
 
 #page-title{
 
-    padding: 5px;
-    background-color: lightgray;
+   
+   
 }
 #footer{
+   
     padding: 5px;
     background-color: darkgray;
     
