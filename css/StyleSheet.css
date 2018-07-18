@@ -95,5 +95,21 @@ caption-img{
     border: 2 solid red;
 }
 
-
+#icon-bet{
+    background-color: #e9ecef;
+    width: 100px;
+    height: 100px;
+    margin: -50px auto 0 auto;
+    
+    border-radius: 50%;
+    display: grid;
+    align-content:center;
+    
+}
+#icon-bet h2{
+    margin: 0 auto;
+    border-radius: 100px;
+    align-content: center;
+   
+}
 /*  ###  end portfolio page ### */
