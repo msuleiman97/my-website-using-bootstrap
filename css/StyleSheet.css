@@ -34,31 +34,6 @@ a:hover {
     font-style: normal;
     font-size: 18px;
 }
-h2,h4 {
-    color: #2facb1 ;
-}
-p{
-    text-align: justify;
-    text-indent: 40px;
-}
-/* above are the main css  for all pages */
-
-// Example
-// Apply styles starting from medium devices and up to extra large devices
-@media (max-width: 600px) { 
-    .jassor_slide{
-        
-        width: 200px;
-        height: 100px;
-    }
-    
-/* start project life cycle style*/
-    
-    .project-life{
-        
-        
-    }/* end roject life cycle style*/
-
 
 /*  ### start about page  ### */
 #gif-photo img{
@@ -87,7 +62,3 @@ p{
 }
 
 /*  ###  end about page ### */
-
-    
-    
-
