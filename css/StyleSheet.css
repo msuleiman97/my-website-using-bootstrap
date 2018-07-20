@@ -1,11 +1,16 @@
 body{
 
    top: 0px !important;
-   
+   margin-bottom: 0; padding-bottom: 0; padding-top: 55px;
     
 }
     .bg-navyblue{
     background: #2facb1 !important;
+}
+a:hover.non-uper {
+    text-transform: none !important;
+    text-decoration: none;
+    color: white !important;
 }
 a:hover { 
     color:white !important;
@@ -52,8 +57,37 @@ p{
     .project-life{
         
         
-    }
-    
-/* end roject life cycle style*/
+    }/* end roject life cycle style*/
 
+
+/*  ### start about page  ### */
+#gif-photo img{
+    width: 100%;
+    height: 510px;
+    
 }
+
+
+
+#our-mission{
+    padding: 7px 5px 0px 0px;
+    background-color: lightgray;
+}
+
+
+#page-title{
+
+    padding: 5px;
+    background-color: lightgray;
+}
+#footer{
+    padding: 5px;
+    background-color: darkgray;
+    
+}
+
+/*  ###  end about page ### */
+
+    
+    
+
