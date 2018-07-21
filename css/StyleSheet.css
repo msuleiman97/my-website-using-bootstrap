@@ -7,6 +7,9 @@ body{
     .bg-navyblue{
     background: #2facb1 !important;
 }
+.bg-grey{
+       background-color: #e9ecef; 
+}
 a:hover.non-uper {
     text-transform: none !important;
     text-decoration: none;
