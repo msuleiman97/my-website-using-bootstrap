@@ -37,7 +37,15 @@ a:hover {
     font-style: normal;
     font-size: 18px;
 }
-
+/* start index style */
+.box{
+    margin:7px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid #2facb1 ;
+}
+/* end index style */
 /*  ### start about page  ### */
 #gif-photo img{
     width: 100%;
